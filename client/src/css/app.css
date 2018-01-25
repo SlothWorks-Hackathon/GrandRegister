@@ -1,0 +1,17 @@
+#main-content {
+  margin-top: 100px;
+}
+
+.navbar a span {
+  font-size: 15px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.form-inline .form-group {
+  margin: 0 10px;
+}
+
+.table .action-column {
+  width: 80px;
+}
